@@ -21,6 +21,8 @@ function cap()
 	$db = new Database();
 	$db->connectMagic();
 
+// Testing out git
+
 	$pt = new PTracker($db);
 	$pt->report();
 
