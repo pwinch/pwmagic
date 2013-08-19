@@ -31,7 +31,7 @@ function cap()
 	unset($db);
 ?>
 <title>California's Best Magical Entertainment in Fundraisers, Corporate Events Trade Shows corporate theatrical events grand illusion.</title>
-<meta name="keywords" content="Magician, birthday parties, riverside,ca,Los Angeles,California,San Diego,CA,Las Vegas,NV,Nevada,Corona, CA, San Francisco,Inland Empire,corporate magician,company parties,trade show,grand illusion,close-up,parlor,cabaret, corona, redlands, kids parties" />
+<meta name="keywords" content="Magician, birthday parties, riverside,ca,LA Magician,Los Angeles,California,San Diego,CA,Las Vegas,NV,Nevada,Corona, CA, San Francisco,Inland Empire,corporate magician,company parties,trade show,grand illusion,close-up,parlor,cabaret, corona, redlands, kids parties" />
 <meta name="description" content="Riverside California Corporate Fundraiser Magician, Los Angeles Illusionist, Orange County Magician, Inland Empire Corporate Magic Las Vesgas NV, Reno Nevada, Corona, Riverside, kids parties, birthdays, Redlands" />
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <meta name="title" content="California's Best in Magical Entertainment. Grand Illusion, Fundraiser Magic Events. Los Angeles, Southern California, Riverside, Inland Empire" />
@@ -141,6 +141,7 @@ function cap()
                                 <li>Private Events</li>
                                 <li>School/Club Fundraisers</li>
                                 <li>Fundraiser Events</li>
+                                <li>Children's Birthday Parties</li>
                         </ul>
                         <h2>Being as we are a mobile magic company, we can bring our show to your event.  We are located near:</h2>
                         <ul>
