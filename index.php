@@ -20,7 +20,7 @@ function cap()
 
 	$db = new Database();
 	$db->connectMagic();
-
+// 2nd change
 	$pt = new PTracker($db);
 	$pt->report();
 
